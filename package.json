@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "pic5678-th:toggle"
   },
-  "repository": "https://github.com/hitman8888/pic5678-th",
+  "repository": "https://github.com/RCTJ/pic5678-th",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
