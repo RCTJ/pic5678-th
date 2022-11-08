@@ -1,10 +1,9 @@
 {
   "name": "pic5678-th",
   "main": "./lib/pic5678-th",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "pic5678-th:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
