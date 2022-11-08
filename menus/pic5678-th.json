@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle pic5678-th",
+        "command": "pic5678-th:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "pic5678-th",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "pic5678-th:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
